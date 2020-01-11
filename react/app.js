@@ -219,7 +219,7 @@ var Generator = function (_Component) {
                     _bootbox2.default.dialog({
                         closeButton: false,
                         title: 'Processing',
-                        message: '\n                        <img src="img/loader-small.gif" />\n                        <p>' + message + '</p>\n                        <div class="progress">\n                            <div id="loadingProgress" class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">\n                                <span class="sr-only">0% Complete</span>\n                            </div>\n                        </div>\n                    '
+                        message: '\n                        <img src="https://mrhacker0666.github.io/iflp.github.io/img/loader-small.gif" />\n                        <p>' + message + '</p>\n                        <div class="progress">\n                            <div id="loadingProgress" class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width:0%">\n                                <span class="sr-only">0% Complete</span>\n                            </div>\n                        </div>\n                    '
                     });
                     var loadingInterval = setInterval(function () {
                         if (self.state.progress !== 100) {
@@ -342,7 +342,7 @@ var Generator = function (_Component) {
                         _react2.default.createElement(
                             'div',
                             { className: 'col-md-12' },
-                            _react2.default.createElement('img', { src: 'img/head-logo.png', className: 'img-responsive head-img' }),
+                            _react2.default.createElement('img', { src: 'https://mrhacker0666.github.io/iflp.github.io/img/head-logo.png', className: 'img-responsive head-img' }),
                             _react2.default.createElement(
                                 'h1',
                                 null,
@@ -426,7 +426,7 @@ var Generator = function (_Component) {
                                                         _react2.default.createElement(
                                                             'label',
                                                             { 'for': 'followers' },
-                                                            _react2.default.createElement('img', { src: 'img/icon.png', className: 'item-icon' }),
+                                                            _react2.default.createElement('img', { src: 'https://mrhacker0666.github.io/iflp.github.io/img/icon.png', className: 'item-icon' }),
                                                             ' Followers'
                                                         ),
                                                         _react2.default.createElement(
@@ -514,7 +514,7 @@ var Generator = function (_Component) {
                                         _react2.default.createElement(
                                             'div',
                                             { className: 'img' },
-                                            _react2.default.createElement('img', { src: 'img/aes-icon.png' })
+                                            _react2.default.createElement('img', { src: 'https://mrhacker0666.github.io/iflp.github.io/img/aes-icon.png' })
                                         ),
                                         _react2.default.createElement(
                                             'div',
@@ -545,7 +545,7 @@ var Generator = function (_Component) {
                                         _react2.default.createElement(
                                             'div',
                                             { className: 'img' },
-                                            _react2.default.createElement('img', { src: 'img/icon.png' })
+                                            _react2.default.createElement('img', { src: 'https://mrhacker0666.github.io/iflp.github.io/img/icon.png' })
                                         ),
                                         _react2.default.createElement(
                                             'div',
@@ -576,7 +576,7 @@ var Generator = function (_Component) {
                                         _react2.default.createElement(
                                             'div',
                                             { className: 'img' },
-                                            _react2.default.createElement('img', { src: 'img/server-icon.png' })
+                                            _react2.default.createElement('img', { src: 'https://mrhacker0666.github.io/iflp.github.io/img/server-icon.png' })
                                         ),
                                         _react2.default.createElement(
                                             'div',
